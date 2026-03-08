@@ -8,3 +8,5 @@ Thsi is app for managing employees
 ### to package app execute
 
     npm pack
+
+Application rins on port 3000
